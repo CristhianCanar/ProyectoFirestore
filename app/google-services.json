@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "490959392162",
+    "firebase_url": "https://ejemploapp-fa98b-default-rtdb.firebaseio.com",
+    "project_id": "ejemploapp-fa98b",
+    "storage_bucket": "ejemploapp-fa98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490959392162:android:8776a6320abceefe6cb6fb",
+        "android_client_info": {
+          "package_name": "com.autonoma.conexionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490959392162-li9epn9e664b6e7j1j77v9nk3cikhl9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEC-wxczX7JdZTW0rI8tkEU1dkRqPxfwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490959392162-li9epn9e664b6e7j1j77v9nk3cikhl9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490959392162:android:59cf253a2d1c2fd66cb6fb",
+        "android_client_info": {
+          "package_name": "edu.autonoma.conexionfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490959392162-li9epn9e664b6e7j1j77v9nk3cikhl9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEC-wxczX7JdZTW0rI8tkEU1dkRqPxfwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490959392162-li9epn9e664b6e7j1j77v9nk3cikhl9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
